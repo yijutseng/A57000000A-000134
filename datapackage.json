@@ -1,0 +1,15 @@
+{
+  "name":"A57000000A-000134",
+  "title":"歷年各業受僱員工每人每月總薪資",
+  "description":"各業受僱員工每人每月總薪資之歷年各月資料",
+  "license":"政府資料開放授權條款-第1版",
+  "homepage":"http://www.dgbas.gov.tw/public/data/open/Cen/Mp05001.xml",
+  "sources":{
+    "name":"行政院主計總處"
+  },
+  "author":{
+    "name":"劉佳鑫 先生",
+    "email":"bennyliu@dgbas.gov.tw"
+  },
+  "keywords":"受僱員工、每人每月總薪資"
+}
